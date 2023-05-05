@@ -36,3 +36,9 @@ Stakeholder management, resource management, risk management and product managem
 **Client:** React, Zustand, TailwindCSS, expo go
 
 **Server:** Node, ExpressJS, AWS
+
+
+## Contact me
+
+You can contact me through this email
+[hasanaqeel38@gmail.com](mailto:hasanaqeel38@gmail.com)
