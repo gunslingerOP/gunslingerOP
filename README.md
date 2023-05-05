@@ -9,25 +9,25 @@ I enjoy working in fast-paced environments where teams are tight-knit and my imp
 ## 🛠 Skills
 
 
-#### 🌐 Programming languages
+### 🌐 Programming languages
 JavaScript, Python and Java
 
 
-#### 👤 Frontend Frameworks
+### 👤 Frontend Frameworks
 ReactJS, React Native, NextJS and Angular  
 
 
-#### 🔌 Backend Frameworks
+### 🔌 Backend Frameworks
 Koa and ExpressJS 
 
 
-#### 🔧 Tools
+### 🔧 Tools
 Typescript, TailWind and SASS
 
-#### ☁️ 🤖Cloud and automation
+### ☁️ 🤖Cloud and automation
 AWS, Heroku and Github actions for testing and linting
 
-#### 📋 Project management
+### 📋 Project management
 Stakeholder management, resource management, risk management and product management
 
 
