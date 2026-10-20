@@ -16,8 +16,7 @@ Specs before prompts, evals before launch, and an owner after it ships. I'm a so
 
 **Writing**
 
-<!-- BLOG-POST-LIST:START -->
-- [I let an LLM read a sales team's CRM notes. Then I refused to trust it.](https://hasanqaysi.dev/blog/crm-content-attribution-pipeline)
+<!-- BLOG-POST-LIST:START -->- [I let an LLM read a sales team&#39;s CRM notes. Then I refused to trust it.](https://hasanqaysi.dev/blog/crm-content-attribution-pipeline)
 - [Make a small team move like a big one](https://hasanqaysi.dev/blog/small-teams-big-output)
 - [Shipping your first AI feature without losing the plot](https://hasanqaysi.dev/blog/first-ai-feature)
 - [Event-driven on AWS serverless, from zero](https://hasanqaysi.dev/blog/serverless-from-zero)
