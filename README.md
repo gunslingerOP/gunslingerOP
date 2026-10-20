@@ -27,7 +27,7 @@ Full-stack software engineer (~5 yrs). I build and ship **production B2B SaaS en
 **🔌 Integrations** — *the connective tissue between platforms*
 - **Google Drive picker — built from scratch** (TypeScript): nested-folder traversal, de-duplication, direct routing into the Content Camel API.
 - **HubSpot CRM integration, end-to-end** — OAuth app, deal ingestion & enrichment, and **bidirectional webhooks** (Content Camel events → HubSpot timeline).
-- Earlier: Algolia (search), Stripe, Zoom, and Zain Cash payments.
+- Earlier: Algolia (search), Stripe and Zoom.
 
 **⚙️ Backend & Distributed Systems** — *multiple production services from scratch*
 - Search-analytics **ingestion pipeline** (SQS · Lambda · DynamoDB · Algolia backfill).
