@@ -15,7 +15,7 @@ jobs:
         with:
           feed_list: "https://hasanqaysi.dev/blog/rss.xml"
           max_post_count: 4
-          template: "- [$title]($url)$newline"
+          template: "$newline- [$title]($url)"  # each entry starts on its own line, so the START marker stays alone on its line
           commit_message: "Refresh the latest-writing list"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
